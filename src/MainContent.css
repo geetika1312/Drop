@@ -1,0 +1,36 @@
+.main-content {
+    width: 40%;
+    padding: 20px;
+    border-right: 1px solid #ddd;
+    background-color: purple;
+  }
+  
+  .campaign-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .task-list {
+    padding-top: 20px;
+  }
+  
+  .folder {
+    margin-bottom: 20px;
+  }
+  
+  .folder-name {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .task-item {
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
+  
